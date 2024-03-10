@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Hello World from Extensions",
+    "description": "A basic extension to get started with extensions",
+    "version": "1.0",
+    "action": {
+        "default_popup": "hello_world.html",
+        "default_icon": "hello_world.png"
+    }
+}
