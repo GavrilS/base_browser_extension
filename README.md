@@ -1,1 +1,1 @@
-# This is a sample extension from chrome: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
+# This repository is used to test tutorials on browser extensions.
